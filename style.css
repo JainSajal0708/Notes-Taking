@@ -1,0 +1,19 @@
+*{
+    margin:0 ;
+    padding:0 ;
+}
+
+nav{
+    background-color: greenyellow;
+}
+a{
+    color: red;
+    font-size: larger;
+    font-weight: bold;
+    padding-right: 30px;
+}
+logo{
+    color: red;
+    font-size: 30px;
+    font-weight: bolder;
+}
