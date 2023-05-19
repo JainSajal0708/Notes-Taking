@@ -17,3 +17,22 @@ logo{
     font-size: 30px;
     font-weight: bolder;
 }
+.notes{
+    color: rgb(0, 182, 254);
+    font-size: 50px;
+    font-weight: bolder;
+}
+.cardbody{
+    border: none;
+}
+.card0{
+    position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: lightsalmon;
+    border: none;
+}
